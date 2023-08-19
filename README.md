@@ -1,4 +1,4 @@
-# portfolio
+# My portfolio
 
 # [Project 1: Exploritory Sales Analysis](https://github.com/nokiaradio/Exploratory-Sales-Analysis)
 
